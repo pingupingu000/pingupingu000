@@ -2,8 +2,13 @@ Apples
 Pears
 Oranges
 Bananas
+Pineapples
 
-
+Berries
+Strawberries
+Raspberries
+Blackberries
+Blueberries
 
 Maybe we should start adding all the berries
 And return the Pineapples, even though I hate them
