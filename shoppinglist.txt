@@ -2,6 +2,7 @@ Apples
 Pears
 Oranges
 Bananas
-Pineapples
+
 
 Bananas are going to brown soon :V - Abel
+I personally do not consier Pineapples to be a fruit, so I'm going to remove it :V
